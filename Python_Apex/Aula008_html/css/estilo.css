@@ -1,0 +1,15 @@
+/* seletores
+usar a tag e {} para alterar a cor  */
+body{
+
+                
+    background: rgba(255, 251, 0, 0);
+    color: #fff;
+
+}
+h1{
+    text-transform: uppercase; 
+    background: #0ff;
+}
+/* text-transform: uppercase deixa maiúsculo */
+/* adicionando cor ao body */
